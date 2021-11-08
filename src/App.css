@@ -1,0 +1,17 @@
+.my-calss {
+  font-size: 30px;
+  color: green;
+}
+
+.btns{
+  display: flex;
+
+  justify-content: space-between;
+}
+
+
+
+ul{
+  list-style: none;
+  padding: 0;
+}

@@ -1,0 +1,18 @@
+.navbar{
+    background-color: aqua;
+color: black;
+}
+
+.navbar .nav-link{
+    color: black !important;
+}
+
+
+.navbar .nav-link:hover{
+    color: grey !important;
+}
+
+.navbar  .active{
+    color: grey !important;
+    text-decoration: underline !important;
+}

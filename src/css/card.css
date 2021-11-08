@@ -1,0 +1,18 @@
+
+.card{
+    cursor: pointer;
+}
+.card-header{
+    justify-content: space-between;
+    display: flex;
+}
+.star-icon{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.business-icon{
+    width: 100px;
+    height: 100px;
+}
